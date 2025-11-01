@@ -63,16 +63,6 @@ Goodbye!
  ┗ 📜 README.md
 ```
 
----
-
-## 🧑‍💻 Author
-
-```
-Khadija
-GitHub
-```
-
----
 
 ## 🎲 Features
 - Simple and intuitive gameplay
