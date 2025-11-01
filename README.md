@@ -68,8 +68,8 @@ Goodbye!
 ## 🧑‍💻 Author
 
 ```
-**Khadija**
-🌐 [GitHub](https://github.com/KhadijaCodes-hub)
+Khadija
+GitHub
 ```
 
 ---
